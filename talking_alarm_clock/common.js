@@ -1,9 +1,3 @@
-/**
- * Copyright (c) 2011 The Chromium Authors. All rights reserved.
- * Use of this source code is governed by a BSD-style license that can be
- * found in the LICENSE file.
- */
-
 var DEFAULT_A1_TT = '09:30';
 var DEFAULT_A1_AMPM = 0;
 var DEFAULT_A2_TT = '03:30';
